@@ -1,0 +1,7 @@
+{
+  "name": "Plumas de Colombia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
